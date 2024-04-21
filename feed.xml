@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Vedanta</title>
+    <link href="https://advaitavedanta.github.io/feed.xml" rel="self" />
+    <link href="https://advaitavedanta.github.io" />
+    <updated>2024-04-21T16:53:20+05:30</updated>
+    <author>
+        <name>Seeker</name>
+    </author>
+    <id>https://advaitavedanta.github.io</id>
+
+    <entry>
+        <title>test2</title>
+        <author>
+            <name>Seeker</name>
+        </author>
+        <link href="https://advaitavedanta.github.io/test2.html"/>
+        <id>https://advaitavedanta.github.io/test2.html</id>
+
+        <updated>2024-04-21T16:53:20+05:30</updated>
+            <summary>
+                <![CDATA[
+                    aaeaeae aweawe
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>aaeaeae aweawe</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

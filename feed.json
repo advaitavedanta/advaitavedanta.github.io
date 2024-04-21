@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vedanta",
+    "description": "",
+    "home_page_url": "https://advaitavedanta.github.io",
+    "feed_url": "https://advaitavedanta.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Seeker"
+    },
+    "items": [
+        {
+            "id": "https://advaitavedanta.github.io/test2.html",
+            "url": "https://advaitavedanta.github.io/test2.html",
+            "title": "test2",
+            "summary": "aaeaeae aweawe",
+            "content_html": "<p>aaeaeae aweawe</p>",
+            "author": {
+                "name": "Seeker"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-21T16:53:20+05:30",
+            "date_modified": "2024-04-21T16:53:20+05:30"
+        }
+    ]
+}
