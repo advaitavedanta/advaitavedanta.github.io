@@ -3,7 +3,7 @@
     <title>Vedanta</title>
     <link href="https://advaitavedanta.github.io/feed.xml" rel="self" />
     <link href="https://advaitavedanta.github.io" />
-    <updated>2024-04-28T02:09:30+05:30</updated>
+    <updated>2024-04-28T02:18:08+05:30</updated>
     <author>
         <name>Seeker</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://advaitavedanta.github.io/nature-of-ignorance-avidya.html"/>
         <id>https://advaitavedanta.github.io/nature-of-ignorance-avidya.html</id>
+            <category term="avidya"/>
 
         <updated>2024-04-28T02:09:30+05:30</updated>
             <summary>
@@ -298,6 +299,7 @@
         </author>
         <link href="https://advaitavedanta.github.io/limitation-of-vaga.html"/>
         <id>https://advaitavedanta.github.io/limitation-of-vaga.html</id>
+            <category term="anirvachaneeya"/>
 
         <updated>2024-04-21T20:58:57+05:30</updated>
             <summary>
